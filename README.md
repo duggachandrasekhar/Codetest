@@ -1,4 +1,4 @@
-# Wiliam Sonama Code Challenge
+# Code Challenge
 
 Product details page with all products.
 Displays the product details, including price, product name and the main hero image.
